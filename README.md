@@ -7,15 +7,16 @@ A US bike-sharing provider BoomBikes has recently suffered considerable dips in 
 The company wants to know:
 Which variables are significant in predicting the demand for shared bikes.
 How well those variables describe the bike demands
-Technologies Used
-numpy 
-pandas 
-matplotlib 
-plotly 
-seaborn 
-statsmodels
-sklearn 
-scipy
+##### Technologies Used:
+
+ numpy 
+ pandas 
+ matplotlib 
+ plotly 
+ seaborn 
+ statsmodels
+ sklearn 
+ scipy
 
 ##### Conclusions:
 1. We had a dataset with 510 records of data with the target and feature variables.
