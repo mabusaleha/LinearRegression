@@ -38,10 +38,10 @@ scipy
 - casual
 5. Split the data into test and train datasets in a 70:30 ratio.
 6. Rescaled numerical variables using MinMax method.
-7.Plotted a heatmap to check linearity among all the variables and identified temp to be the most significant feature.
-8.Built a model using only temp feature with 41% adjusted R-Square.
-9.Adopted RFE for feature selection and built 5 other models to increase adjusted R-square to 84.3%.
+7. Plotted a heatmap to check linearity among all the variables and identified temp to be the most significant feature.
+8. Built a model using only temp feature with 41% adjusted R-Square.
+9. Adopted RFE for feature selection and built 5 other models to increase adjusted R-square to 84.3%.
 10. Manually identified other feature variables and built 6 other models and observed most of newly added features are having p-value > 0.05 which is insignificant.
-11.Performed residual analysis to confirm assumption of residuals hold true.
-12.Made predictions on the train data.
+11. Performed residual analysis to confirm assumption of residuals hold true.
+12. Made predictions on the train data.
 13. Evaluated the model on test data with 81.5 % accuracy.
